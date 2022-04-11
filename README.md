@@ -8,9 +8,9 @@ My name is Avishek Datta Ray and I'm a frontend developer.
 
 ## &#x1f4c8; GitHub Stats
 <div style="width: 100%">
-<!--<a href="https://github.com/avishekdr/avishekdr">
+<a href="https://github.com/avishekdr/avishekdr" style="margin-right: 2rem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishekdr&hide=java,html,tex&theme=tokyonight&langs_count=3" />
-</a>--><a href="https://github.com/avishekdr/avishekdr">
+</a><a href="https://github.com/avishekdr/avishekdr">
   <img width="50%" height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=avishekdr&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Avishek's GitHub Stats" />
 </a>
 </div>   
